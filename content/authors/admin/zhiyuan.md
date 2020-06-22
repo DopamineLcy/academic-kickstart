@@ -4,7 +4,7 @@ organizations:
     url: ""
 superuser: true
 authors:
-  - admin
+  - zhiyuan
 title: 王志源
 role: 开发成员
 bio: My research interests include distributed robotics, mobile computing and
