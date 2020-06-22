@@ -1,7 +1,7 @@
 ---
 organizations:
   - name: Xiamen University
-    url: "王志源/"
+    url: ""
 superuser: true
 authors:
   - admin
