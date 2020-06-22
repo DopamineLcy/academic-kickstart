@@ -51,8 +51,10 @@ hero_media = "background.png"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Hospital Traffic——The Class Project of SCAD of Xiamen University**
+## **Hospital Traffic**
 
-Build **Anything** with Widgets
+**——The Class Project of SCAD of Xiamen University**
 
-<span style="text-shadow: none;"><a class="github-button" href="https://gitee.com/xmu-ai/hospital-traffic" data-icon="octicon-star" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<!-- Build **Anything** with Widgets -->
+
+<!-- <span style="text-shadow: none;"><a class="github-button" href="https://gitee.com/xmu-ai/hospital-traffic" data-icon="octicon-star" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span> -->

@@ -15,12 +15,12 @@
 
 [[main]]
   name = "规范设计"
-  url = "#projects"
+  url = "#design"
   weight = 30
 
 [[main]]
   name = "软件组织"
-  url = "#featured"
+  url = "#organization"
   weight = 40
 
 [[main]]
