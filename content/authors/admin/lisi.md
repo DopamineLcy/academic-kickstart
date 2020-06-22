@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: 张三
+title: 李四
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.

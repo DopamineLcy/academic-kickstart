@@ -47,12 +47,12 @@ hero_media = "Snipaste_2020-05-05_16-07-26.png"
   # label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+# [cta_note]
+#   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**Hospital Traffic——The Class Project of SCAD of Xiamen University**
 
 Build **Anything** with Widgets
 
-<span style="text-shadow: none;"><a class="github-button" href="https://gitee.com/xmu-ai/hospital-traffic" data-icon="octicon-star">Star</a></span>
+<span style="text-shadow: none;"><a class="github-button" href="https://gitee.com/xmu-ai/hospital-traffic" data-icon="octicon-star" aria-label="Star this on GitHub">Star</a></span>
