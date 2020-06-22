@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: 连陈宇
+title: 王志源
 role: 开发成员
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.

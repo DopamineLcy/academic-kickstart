@@ -5,8 +5,8 @@ organizations:
 superuser: true
 authors:
   - admin
-title: 王志源
-role: Professor of Artificial Intelligence
+title: 陈龙彪
+role: 导师
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -39,7 +39,7 @@ education:
       year: 2008
 email: ""
 user_groups:
-  - Developers
+  - Tutor
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
