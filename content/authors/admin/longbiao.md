@@ -4,7 +4,7 @@ organizations:
     url: ""
 superuser: true
 authors:
-  - longbiao
+  - admin
 title: 陈龙彪
 role: 导师
 bio: My research interests include distributed robotics, mobile computing and

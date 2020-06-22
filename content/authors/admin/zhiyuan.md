@@ -1,10 +1,10 @@
 ---
 organizations:
   - name: Xiamen University
-    url: ""
+    url: "王志源/"
 superuser: true
 authors:
-  - zhiyuan
+  - admin
 title: 王志源
 role: 开发成员
 bio: My research interests include distributed robotics, mobile computing and
