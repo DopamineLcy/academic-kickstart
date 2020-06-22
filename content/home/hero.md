@@ -37,14 +37,14 @@ hero_media = "Snipaste_2020-05-05_16-07-26.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
+  url = "http://apps.longbiaochen.com:8092/"
   label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+  # icon_pack = "fas"
+  # icon = "download"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  # url = "https://sourcethemes.com/academic/"
+  # label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
@@ -55,4 +55,4 @@ hero_media = "Snipaste_2020-05-05_16-07-26.png"
 
 Build **Anything** with Widgets
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<span style="text-shadow: none;"><a class="github-button" href="https://gitee.com/xmu-ai/hospital-traffic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
