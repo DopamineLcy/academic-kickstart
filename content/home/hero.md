@@ -55,4 +55,4 @@ hero_media = "Snipaste_2020-05-05_16-07-26.png"
 
 Build **Anything** with Widgets
 
-<span style="text-shadow: none;"><a class="github-button" href="https://gitee.com/xmu-ai/hospital-traffic" data-icon="octicon-star" aria-label="Star this on GitHub">Star</a></span>
+<span style="text-shadow: none;"><a class="github-button" href="https://gitee.com/xmu-ai/hospital-traffic" data-icon="octicon-star" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
