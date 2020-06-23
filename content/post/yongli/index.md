@@ -1,7 +1,7 @@
 ---
 title: '用例图'
 # subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: 用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图用例图
+summary: 用例图体现了用户操作系统的业务关系，使用业务语言描述
 # authors:
 # - admin
 # tags:
@@ -33,7 +33,7 @@ image:
 projects: []
 ---
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
+**&emsp;&emsp;本系统基于后台大数据分析，通过前端展示城市医疗压力情况。用户可以通过地图、医院列表、图表方式查看各个医院过去72小时的真实就诊人数和未来24小时的预测就诊人数。因为不存在用于与后台的交互，因此用例图较简单。**
 
 ## License
 

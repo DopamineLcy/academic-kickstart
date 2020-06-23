@@ -1,9 +1,9 @@
 ---
 title: '活动图'
 # subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: 活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图活动图
-# authors:
-# - admin
+summary: 活动图
+authors:
+- admin
 # tags:
 # - Academic
 # - 开源
