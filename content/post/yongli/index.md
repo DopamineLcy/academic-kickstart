@@ -2,8 +2,8 @@
 title: '用例图'
 # subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: 用例图(Use Case Diagram)体现了用户操作系统的业务关系，使用业务语言描述
-# authors:
-# - admin
+authors:
+- admin
 # tags:
 # - Academic
 # - 开源

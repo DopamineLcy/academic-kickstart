@@ -2,8 +2,8 @@
 title: '类图'
 # subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: 类图(Class Diagram)是最常用的UML图。类图体现了各个类的结构以及类与类之间的组织关系
-# authors:
-# - admin
+authors:
+- admin
 # tags:
 # - Academic
 # - 开源

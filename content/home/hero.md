@@ -24,11 +24,11 @@ hero_media = "background.png"
   gradient_end = "#2b94c3"
   
   # Background image.
-  # image = "Snipaste_2020-05-05_16-17-58.png"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image = "bg.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -39,8 +39,8 @@ hero_media = "background.png"
 [cta]
   url = "http://apps.longbiaochen.com:8092/"
   label = "Get Started"
-  # icon_pack = "fas"
-  # icon = "download"
+  icon_pack = "fas"
+  icon = "play"
   
 [cta_alt]
   # url = "https://sourcethemes.com/academic/"
