@@ -28,20 +28,22 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 计算机科学 博士
+      institution: 	法国索邦大学 (原法国巴黎第六大学)
+      year: 2015--2018
+    - course: 计算机科学 博士
+      institution: 浙江大学
+      year: 2010--2016
+    - course: 计算机科学 学士
+      institution: 浙江大学
+      year: 2006--2010
 email: ""
 user_groups:
-  - Tutor
+  - Developers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+&emsp;&emsp;导师陈龙彪
+<br></br>
+<br></br>
+<br></br>
+<br></br>

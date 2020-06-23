@@ -33,10 +33,10 @@ image:
 projects: []
 ---
 
-**&emsp;&emsp;本项目主要由地图主体、医院、地图标注、医疗压力信息、医疗压力图表五个类组成。地图主体与地图标注相互配合，展示各个医院的地理位置以及标注当前焦点医院。医院位置信息依赖于医院类。通过地图标注，可以触发相应的医疗压力图表，展示真实以及预测的就诊人数信息。其中医院名称依赖于医院类，过去72小时的真实就诊人数和未来24小时的预测就诊人数信息依赖于医疗压力信息类。**
+&emsp;&emsp;本项目主要由地图主体、医院、地图标注、医疗压力信息、医疗压力图表五个类组成。地图主体与地图标注相互配合，展示各个医院的地理位置以及标注当前焦点医院。医院位置信息依赖于医院类。通过地图标注，可以触发相应的医疗压力图表，展示真实以及预测的就诊人数信息。其中医院名称依赖于医院类，过去72小时的真实就诊人数和未来24小时的预测就诊人数信息依赖于医疗压力信息类。
 
-## License
+<!-- ## License
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license. -->

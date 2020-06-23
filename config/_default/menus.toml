@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "团队介绍"
+  url = "#people"
+  weight = 15
+
+[[main]]
   name = "需求分析"
   url = "#needs"
   weight = 20
@@ -28,10 +33,7 @@
   url = "#algorithm"
   weight = 50
 
-[[main]]
-  name = "团队介绍"
-  url = "#people"
-  weight = 60
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

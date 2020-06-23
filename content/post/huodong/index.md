@@ -33,10 +33,10 @@ image:
 projects: []
 ---
 
-**&emsp;&emsp;用户进入页面后，可以通过点击地图标注或医院列表两种方式查看某医院的医疗压力情况。系统会根据用户的点击行为，获取焦点医院的名称及经纬度信息，通过获取医疗压力信息。此时地图聚焦焦点医院，具体行为有两点：一是将该医院的颜色设置为焦点色，并取消其他医院的焦点色。二是将网页的中心聚焦至该医院标注所在位置。继而医疗压力图表展示焦点医院的名称及医疗压力信息。**
+&emsp;&emsp;用户进入页面后，可以通过点击地图标注或医院列表两种方式查看某医院的医疗压力情况。系统会根据用户的点击行为，获取焦点医院的名称及经纬度信息，通过获取医疗压力信息。此时地图聚焦焦点医院，具体行为有两点：一是将该医院的颜色设置为焦点色，并取消其他医院的焦点色。二是将网页的中心聚焦至该医院标注所在位置。继而医疗压力图表展示焦点医院的名称及医疗压力信息。
 
-## License
+<!-- ## License
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license. -->

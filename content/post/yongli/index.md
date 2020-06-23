@@ -33,10 +33,10 @@ image:
 projects: []
 ---
 
-**&emsp;&emsp;本系统基于后台大数据分析，通过前端展示城市医疗压力情况。用户可以通过地图、医院列表、图表方式查看各个医院过去72小时的真实就诊人数和未来24小时的预测就诊人数。因为不存在用于与后台的交互，因此用例图较简单。**
+&emsp;&emsp;本系统基于后台大数据分析，通过前端展示城市医疗压力情况。用户可以通过地图、医院列表、图表方式查看各个医院过去72小时的真实就诊人数和未来24小时的预测就诊人数。因为不存在用于与后台的交互，因此用例图较简单。
 
-## License
+<!-- ## License
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license. -->
