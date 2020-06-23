@@ -1,7 +1,7 @@
 ---
 title: '活动图'
 # subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: 活动图
+summary: 活动图（Activity Diagram）即UML中的流程图。用来表示系统中各种活动的次序。它既可用来描述用例的工作流程，也可以用来描述类中某个方法的操作行为
 authors:
 - admin
 # tags:
