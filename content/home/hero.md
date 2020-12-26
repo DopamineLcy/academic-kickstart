@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "医疗就诊需求可视化与预测调度系统"
+title = "厦门市医院急诊医疗压力地图"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "background.png"
@@ -53,7 +53,7 @@ hero_media = "background.png"
 
 ## **Hospital Traffic**
 
-**——The Class Project of SCAD of Xiamen University**
+**——The Class Project of Software Engineering of Xiamen University**
 
 <!-- Build **Anything** with Widgets -->
 
